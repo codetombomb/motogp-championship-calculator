@@ -1,0 +1,1 @@
+# motogp-championship-calculator
